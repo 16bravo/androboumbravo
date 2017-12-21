@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Androboum</string>
+    <string name="title">L\'application qui fait yee !</string>
+    <string name="start">Démarrer</string>
+    <string name="action_logout">Se déconnecter</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="action2_settings">Paramètres</string>
+    <string name="facebook_application_id" translatable="false">1809914232370472</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb1809914232370472</string>
+    <string name="imageUploaded">image chargée</string>
+    <string name="filter_dialog_title">Filtrer</string>
+    <string name="btliste">Liste des utilisateurs</string>
+    <string name="btbomb">Yee !</string>
+    <string name="cible">Cible</string>
+    <string name="bombedText">Vous avez été yeeé par </string>
+    <string name="target">cible</string>
+    <string name="source">attaquant</string>
+    <string name="resendBomb">Renvoyer le yee</string>
+    <string name="nouserresponse">Pas de réponse de l\'utilisateur</string>
+    <string name="userbusy">L\'utilisateur est occupé</string>
+    <string name="cantbombme">Vous ne pouvez pas vous yeeer vous même !</string>
+    <string name="bombexplosed">La bombe a yeeé !</string>
+    <string name="win">Gagné !</string>
+    <string name="lost">Perdu !</string>
+</resources>
